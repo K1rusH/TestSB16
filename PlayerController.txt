@@ -1,0 +1,11 @@
+using Unity;
+
+class PlayerController : mono
+{
+
+ if нажата кнопка Space, то
+{
+ персонаж прыгает
+}
+
+}
